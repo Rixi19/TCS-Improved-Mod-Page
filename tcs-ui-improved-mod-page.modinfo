@@ -57,6 +57,7 @@
 					<Item locale="ko_KR">text/ko_kr/ShellText.xml</Item>
 					<Item locale="it_IT">text/it_it/ShellText.xml</Item>
 					<Item locale="ru_RU">text/ru_ru/ShellText.xml</Item>
+					<Item locale="pl_PL">text/pl_pl/ShellText.xml</Item>
 				</UpdateText>
 			</Actions>
 		</ActionGroup>
@@ -67,5 +68,6 @@
 		<File>text/it_it/ShellText.xml</File>
 		<File>text/ko_kr/ShellText.xml</File>
 		<File>text/ru_ru/ShellText.xml</File>
+		<File>text/pl_pl/ShellText.xml</File>
 	</LocalizedText>
 </Mod>
